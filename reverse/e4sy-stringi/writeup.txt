@@ -1,6 +1,6 @@
-Таск "e4sy-stringi"
+Task: "e4sy-stringi"
 
 Название и текст таска упоминают "стринги". Идет намек на команду "strings", выводящую все печатаемые строки в файле. Среди вывода мы и можем найти флаг.
 
-Флаг: CTFlyc{b4by_r3v3rs3}
+Flag: CTFlyc{b4by_r3v3rs3}
 Author: @maratkamchatskiy
