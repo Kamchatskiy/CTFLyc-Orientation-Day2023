@@ -1,0 +1,7 @@
+Task: "otaN"
+
+Гуглим, думаем. Определяем, что это натовский шифр, декодим и получаем флаг
+https://cryptii.com/pipes/nato-phonetic-alphabet
+
+Flag: CTFlyc{fuck_nato_all_my_homies_use_russian_army} (case insensetive)
+Author: @maratkamchatskiy
