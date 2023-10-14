@@ -1,4 +1,4 @@
-Task:
+Task: "reznya"
 
 Решаем файл одной командой
 $ cat REZNYAREZNYAREZNYA | uniq
