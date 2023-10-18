@@ -1,0 +1,6 @@
+Task: "r3v3rs3-alph4b3t"
+
+Чувствуем намек на переворачивание алфавита. Декодим substitute (он же шифр подстановок) с первернутым алфавитом и получаем флаг
+
+Flag: CTFLYC{SUBST1TUT3} (case insensetive)
+Author: @maratkamchatskiy
