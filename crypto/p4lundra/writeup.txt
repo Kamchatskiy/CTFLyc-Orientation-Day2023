@@ -1,0 +1,6 @@
+Task: "p4lundra"
+
+DASH и DOT - замененнные . и - из морзе. Надо заменить дэши на дэши и доты на доты. Декодим и получаем флаг(-и).
+
+Flag: CTFLYCM0RS3_1S_TH3_B4ST_3NCRYPT10N_SYST3M or CTFlyc{m0rs3_1s_th3_b4st_3ncrypt10n_syst3m}
+Author: @maratkamchatskiy
