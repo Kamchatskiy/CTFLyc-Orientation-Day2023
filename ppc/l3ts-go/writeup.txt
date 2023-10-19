@@ -1,0 +1,6 @@
+Task: "l3ts-go"
+
+91274914839124329164882 = 2×2803×16281647313436376947 (3 distinct prime factors)
+
+Flag: CTFlyc{go_go_go_go_go}
+Author: @maratkamchatskiy
