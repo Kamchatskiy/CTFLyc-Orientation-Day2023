@@ -1,0 +1,15 @@
+services:
+  task:
+    build: .
+    restart: always
+    ports:
+      - 8003:80
+    environment:
+      - FLAG="CTFlyc{4bs0lutely_ins4n4e}"
+    networks:
+      default:
+      internal:
+networks:
+  default:
+  internal:
+    internal: true

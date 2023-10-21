@@ -1,0 +1,13 @@
+services:
+  task:
+    build: .
+    restart: always
+    ports:
+      - 8002:80
+    networks:
+      default:
+      internal:
+networks:
+  default:
+  internal:
+    internal: true
