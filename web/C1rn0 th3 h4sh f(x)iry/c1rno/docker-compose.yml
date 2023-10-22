@@ -1,0 +1,15 @@
+services:
+  task:
+    build: .
+    restart: always
+    ports:
+      - 8004:80
+    environment:
+      - FLAG="CTFlyc{9_is_the_str0ng357}"
+    networks:
+      default:
+      internal:
+networks:
+  default:
+  internal:
+    internal: true

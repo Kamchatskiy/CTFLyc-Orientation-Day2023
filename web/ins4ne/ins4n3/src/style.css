@@ -1,0 +1,14 @@
+.sanity-form {
+	display: block;
+	width: 70%;
+	margin:auto;
+}
+.sanity-input {
+	width:70%;
+	display:inline-block;
+}
+#btn {
+	display:inline-block;
+	margin: auto;
+}
+

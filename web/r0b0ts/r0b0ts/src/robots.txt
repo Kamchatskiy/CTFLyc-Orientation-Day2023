@@ -1,0 +1,6 @@
+User-agent: r0b0t
+Disallow: /cookies.html
+Disallow: /*
+
+User-agent: ctfer
+Disallow: /*
