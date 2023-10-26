@@ -1,5 +1,12 @@
-Task: "c0nd1-ch3ck3rr"
+# c0nd1-ch3ck3rr
 
+## Description:
+```
+Бубубу с бебебе
+
+```
+
+## Solution:
 Открываем файл в декомпиляторе и видим кучу условий посимвольной проверки:
 if (var_110h == 'C') 
 if (var_110h._1_1_ == 'T') 
@@ -28,5 +35,7 @@ if (cStack257 == 'n')
 if (cStack256 == '$')
 Складываем воедино и получаем флаг.
 
-Flag: CTFlyc{s0_m4ny_c0nd1t10n$}
-Author: @maratkamchatskiy
+### Flag: 
+CTFlyc{s0_m4ny_c0nd1t10n$}
+### Author: 
+@maratkamchatskiy

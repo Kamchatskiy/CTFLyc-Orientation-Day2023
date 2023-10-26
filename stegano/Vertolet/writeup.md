@@ -1,3 +1,14 @@
+# Vertolet
+
+## Description:
+```
+-
+```
+
+## Solution:
 Необходимо быо посмотреть метаданные картинки. Можно через exiftool. А также можно было воспользоваться strings 
 
-**CTFlyc{kok1}**
+### Flag:
+CTFlyc{kok1}
+### Author:
+@ihelpe

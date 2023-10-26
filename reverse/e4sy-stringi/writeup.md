@@ -1,6 +1,14 @@
-Task: "e4sy-stringi"
+# e4sy-stringi
 
+## Description:
+```
+Я смотрю, вы обронили свои стринги, увидев этот таск
+```
+
+## Solution:
 Название и текст таска упоминают "стринги". Идет намек на команду "strings", выводящую все печатаемые строки в файле. Среди вывода мы и можем найти флаг.
 
-Flag: CTFlyc{b4by_r3v3rs3}
-Author: @maratkamchatskiy
+### Flag: 
+CTFlyc{b4by_r3v3rs3}
+### Author: 
+@maratkamchatskiy

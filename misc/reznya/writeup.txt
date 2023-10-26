@@ -1,7 +1,0 @@
-Task: "reznya"
-
-Решаем файл одной командой
-$ cat REZNYAREZNYAREZNYA | uniq
-
-Flag: CTFlyc{nake_flag}
-Author: @maratkamchatskiy

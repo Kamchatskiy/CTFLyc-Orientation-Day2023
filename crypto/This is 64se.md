@@ -1,8 +1,15 @@
-У нас есть следующая задача
-___
-Это база, говорили они... Q1RGbHlje3NvMF9iYXMzZH0=
-___
+# This is b4se
 
+## Description:
+```
+Это база, говорили они... 
+Q1RGbHlje3NvMF9iYXMzZH0=
+```
+
+## Solution
 В названии прямо очень жирная подсказка про base 64. Проверяем и получаем флаг.
 
-**CTFlyc{so0_bas3d}**
+### Flag:
+CTFlyc{so0_bas3d}
+### Author:
+@ihelpe

@@ -1,3 +1,5 @@
 # CTFlyc Orientation Day 
-This is a write-up on the CTFlyc competition that was held on October 19, 2023 in HSE Lyceum
-Difficulty: Easy
+
+This repository contains write-ups for a beginner's competition that took place on October 19, 2023 at HSE Lyceum.
+
+Created with love by the CTF Lyceum
